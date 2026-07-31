@@ -14,17 +14,7 @@ This project analyzes historical traffic data collected from multiple junctions 
 - Train Machine Learning models for traffic forecasting.
 - Evaluate model performance using appropriate metrics.
 - Predict future traffic volume.
-
-## 📂 Project Structure
-Smart-City-Traffic-Forecasting/
-│
-├── data/
-│   ├── raw/
-├── notebooks/
-│   ├── 01_Data_Understanding.ipynb
-├── requirements.txt
-│
-└── README.md
+  
 The trained model file (model.pkl) is not included because it exceeds GitHub's file size limit. Run the training notebook to regenerate the model.
 
 ## 📊 Dataset
