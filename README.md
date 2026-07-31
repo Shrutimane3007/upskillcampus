@@ -25,7 +25,7 @@ Smart-City-Traffic-Forecasting/
 ├── requirements.txt
 │
 └── README.md
-
+The trained model file (model.pkl) is not included because it exceeds GitHub's file size limit. Run the training notebook to regenerate the model.
 
 ## 📊 Dataset
 The dataset contains hourly traffic information from multiple city junctions.
